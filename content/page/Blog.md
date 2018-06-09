@@ -5,6 +5,4 @@ menu:
       - sidebar
       - main
 weight: -210
-tags:
-  - sandbox
 ---
