@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "Minimo"
+baseURL = "http://polar-journey-29181.herokuapp.com"
+title = ""
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -62,7 +62,7 @@ appID = ""
 pageID = ""
 
 [params.opengraph.twitter]
-page = "" # Twitter page username
+page = "varunkothamachu" # Twitter page username
 
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
@@ -103,11 +103,11 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/varunkothamachu/varun_portfolio"
+#[[menu.main]]
+#name = "Repo"
+#weight = -10
+#identifier = "repository"
+#url = "https://github.com/varunkothamachu/varun_portfolio"
 
 [blackfriday]
 hrefTargetBlank = true
@@ -118,3 +118,5 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+
+#widget_area_slug = [ "homepage", "sidebar_menu", "footer"]
