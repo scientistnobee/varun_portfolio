@@ -15,7 +15,6 @@ enableRobotsTXT = true # generate robots.txt
 
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
 pygmentsCodefences = true
-
 enableEmoji = true
 
 # Missing translations will default to this content language
@@ -39,21 +38,21 @@ suffix = ""
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
-dateFormat = "2018, June 06"
-listDateFormat = "2018, June 06"
-archiveDateFormat = "June 06"
+dateFormat = "2018, June 09"
+listDateFormat = "2018, June 09"
+archiveDateFormat = "June 18"
 hideEntryNavigation = ["page"] # boolean / array of sections
 showReadingTime = true
 taxonomyCloudShuffle = true
 accentColor = "#ffcd00"
-hideMainMenu = false
+hideMainMenu = false # setting this false, helps hide the main menu
 
 [params.sidebar]
 enable = true
 
 [params.widgets]
 homepage = ["recent_posts"]
-sidebar = ["about","sidebar_menu","taxonomy_cloud"]
+sidebar = ["about","sidebar_menu","taxonomy_cloud","recent_posts"]
 footer = ["social_menu"]
 
 [params.opengraph.facebook]
@@ -118,5 +117,3 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
-
-#widget_area_slug = [ "homepage", "sidebar_menu", "footer"]

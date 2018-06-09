@@ -1,8 +1,10 @@
 ---
 title: Blog
-description: Blog Posts
+linkTitle: Blog
 menu:
-      - sidebar
-      - main
-weight: -210
+  main:
+  sidebar:
+    identifier: Blog
+weight: -250
+slug: Blog
 ---

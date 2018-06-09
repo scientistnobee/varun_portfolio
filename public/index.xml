@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on </title>
+    <link>http://polar-journey-29181.herokuapp.com/</link>
+    <description>Recent content in Home on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://polar-journey-29181.herokuapp.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>http://polar-journey-29181.herokuapp.com/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://polar-journey-29181.herokuapp.com/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://polar-journey-29181.herokuapp.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://polar-journey-29181.herokuapp.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborate</title>
+      <link>http://polar-journey-29181.herokuapp.com/collaborate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://polar-journey-29181.herokuapp.com/collaborate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://polar-journey-29181.herokuapp.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://polar-journey-29181.herokuapp.com/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://polar-journey-29181.herokuapp.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://polar-journey-29181.herokuapp.com/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandbox</title>
+      <link>http://polar-journey-29181.herokuapp.com/sandbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://polar-journey-29181.herokuapp.com/sandbox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
