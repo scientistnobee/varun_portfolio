@@ -4,10 +4,7 @@
   
   <url>
     <loc>http://polar-journey-29181.herokuapp.com/</loc>
-  </url>
-  
-  <url>
-    <loc>http://polar-journey-29181.herokuapp.com/blog/</loc>
+    <lastmod>2018-06-09T23:27:42+01:00</lastmod>
   </url>
   
   <url>
@@ -31,6 +28,11 @@
   </url>
   
   <url>
+    <loc>http://polar-journey-29181.herokuapp.com/post/hello_world/</loc>
+    <lastmod>2018-06-09T23:27:42+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://polar-journey-29181.herokuapp.com/authors/</loc>
     <priority>0</priority>
   </url>
@@ -45,11 +47,23 @@
   </url>
   
   <url>
+    <loc>http://polar-journey-29181.herokuapp.com/tags/hello-world/</loc>
+    <lastmod>2018-06-09T23:27:42+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://polar-journey-29181.herokuapp.com/tags/og/</loc>
   </url>
   
   <url>
     <loc>http://polar-journey-29181.herokuapp.com/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://polar-journey-29181.herokuapp.com/post/</loc>
+    <lastmod>2018-06-09T23:27:42+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,6 +74,13 @@
   
   <url>
     <loc>http://polar-journey-29181.herokuapp.com/tags/</loc>
+    <lastmod>2018-06-09T23:27:42+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://polar-journey-29181.herokuapp.com/authors/varunkothamachu/</loc>
+    <lastmod>2018-06-09T23:27:42+01:00</lastmod>
     <priority>0</priority>
   </url>
   

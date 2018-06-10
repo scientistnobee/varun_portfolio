@@ -9,5 +9,14 @@
 	<atom:link href="http://polar-journey-29181.herokuapp.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Varunkothamachu</title>
+      <link>http://polar-journey-29181.herokuapp.com/authors/varunkothamachu/</link>
+      <pubDate>Sat, 09 Jun 2018 23:27:42 +0100</pubDate>
+      
+      <guid>http://polar-journey-29181.herokuapp.com/authors/varunkothamachu/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
