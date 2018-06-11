@@ -9,9 +9,6 @@ menu:
     weight: 4
 
 ---
-    
-    3.9 Mary Bruck Building, 
-    
     Institute of BioEngineering
     
     School of Engineering,
