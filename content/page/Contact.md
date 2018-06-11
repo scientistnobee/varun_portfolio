@@ -8,7 +8,7 @@ menu: ''
 
 ---
 
-    3.9 Mary Bruck Building, 
+    3\.9 Mary Bruck Building, 
 
     Institute of BioEngineering
 
