@@ -8,7 +8,9 @@ menu: ''
 
 ---
 
-    3.9 Mary Bruck Building, Institute of BioEngineering
+    3.9 Mary Bruck Building, 
+
+    Institute of BioEngineering
 
     School of Engineering,
 
