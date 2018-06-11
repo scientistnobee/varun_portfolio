@@ -16,5 +16,5 @@ menu: ''
 > University of Edinburgh
 >
 > EH9 3AZ
-
-![](/uploads/image001.png)
+>
+> ![](/uploads/image001.png)
