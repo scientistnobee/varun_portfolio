@@ -10,4 +10,4 @@ menu: ''
 ---
 > All models are wrong, but some are useful
 >
->  - E. P. Box
+> E. P. Box
