@@ -1,10 +1,20 @@
 ---
-title: "Contact"
-date: 2018-06-10T11:30:52+01:00
-draft: false
-menu:
-  - main
-  - sidebar
+title: Contact
+date: 2018-06-10 11:30:52 +0100
 weight: -270
+description: ''
+comments: false
+menu: ''
+
 ---
-<div class="typeform-widget" data-url="https://exenous.typeform.com/to/uSc7TQ" style="width: 100%; height: 400px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=uSc7TQ&utm_source=typeform.com-98678-Basic&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
+> 3.9 Mary Bruck Building, 
+>
+> Institute of BioEngineering
+>
+> School of Engineering, 
+>
+> University of Edinburgh 
+>
+> EH9 3AZ
+
+<div class="mapouter"><div class="gmap_canvas"><iframe width="500" height="400" id="gmap_canvas" src="[https://maps.google.com/maps?q=Mary%20bruck%20building&t=&z=13&ie=UTF8&iwloc=&output=embed](https://maps.google.com/maps?q=Mary%20bruck%20building&t=&z=13&ie=UTF8&iwloc=&output=embed "https://maps.google.com/maps?q=Mary%20bruck%20building&t=&z=13&ie=UTF8&iwloc=&output=embed")" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="[https://www.crocothemes.net](https://www.crocothemes.net "https://www.crocothemes.net")"></a></div><style>.mapouter{text-align:right;height:400px;width:500px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:500px;}</style></div>
