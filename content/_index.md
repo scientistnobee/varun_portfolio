@@ -1,9 +1,13 @@
 ---
 title: Home
-menu:
-  - main
-  - sidebar
 weight: -270
+type: page
+description: ''
+date: ''
+comments: false
+menu: ''
+
 ---
-> Minimalism is not a lack of something. It’s simply the perfect amount of something.
-> — Nicholas Burroughs
+> All models are wrong, but some are useful
+>
+>  - E. P. Box
