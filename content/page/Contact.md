@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2018-06-10 11:30:52 +0100
+date: 2018-06-10 10:30:52 +0000
 weight: -270
 description: ''
 comments: false
@@ -8,7 +8,7 @@ menu: ''
 
 ---
 
-    3.9 Mary Bruck Building, 
+    Mary Bruck Building, 
 
     Institute of BioEngineering
 
