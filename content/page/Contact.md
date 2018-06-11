@@ -17,4 +17,4 @@ menu: ''
 >
 > EH9 3AZ
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="500" height="400" id="gmap_canvas" src="[https://maps.google.com/maps?q=Mary%20bruck%20building&t=&z=13&ie=UTF8&iwloc=&output=embed](https://maps.google.com/maps?q=Mary%20bruck%20building&t=&z=13&ie=UTF8&iwloc=&output=embed "https://maps.google.com/maps?q=Mary%20bruck%20building&t=&z=13&ie=UTF8&iwloc=&output=embed")" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="[https://www.crocothemes.net](https://www.crocothemes.net "https://www.crocothemes.net")"></a></div><style>.mapouter{text-align:right;height:400px;width:500px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:500px;}</style></div>
+<div id="map" style="width: 300px; height: 300px;"></div> <script type="text/javascript">   $(function() {     $("#map").googleMap({       zoom: 10, // Initial zoom level (optional)       coords: \[48.895651, 2.290569\], // Map center (optional)       type: "ROADMAP" // Map type (optional)     });   }) </script>
