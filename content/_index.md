@@ -8,4 +8,4 @@ comments: false
 menu: ''
 
 ---
-All models are wrong, but some are useful E. P. Box
+> All models are wrong, but some are useful -– E. P. Box
