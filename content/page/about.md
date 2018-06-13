@@ -4,4 +4,4 @@ description: PDRA, Control Engineering and Synthetic Biology, University of Edin
 menu: sidebar
 weight: -210
 ---
-[My Resume](/resume/VarunKothamachu_Resume.pdf)
+[My Resume](/resume/VarunKothamachu_Resume.pdf)  (Last updated: May 2017)
