@@ -4,7 +4,7 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
-  page:
+  content/page:
     default_front_matter_template: page
 upload_dir: static/uploads
 public_path: "/uploads"
