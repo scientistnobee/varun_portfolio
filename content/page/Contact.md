@@ -9,7 +9,7 @@ menu:
     weight: 4
 
 ---
-![rocket.scout.jolly](/uploads/Location.png "Location")
+![](/uploads/Location.png)
 
 3\.9 [Mary Bruck Building](https://w3w.co/rocket.scout.jolly "Mary Bruck Building")
 
