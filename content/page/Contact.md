@@ -9,9 +9,7 @@ menu:
     weight: 4
 
 ---
-![](/uploads/Location.png)
-
-3\.9 [Mary Bruck Building](https://w3w.co/rocket.scout.jolly "Mary Bruck Building")
+![](/uploads/Location.png)3.9 [Mary Bruck Building](https://w3w.co/rocket.scout.jolly "Mary Bruck Building")
 
 Institute of BioEngineering
 
