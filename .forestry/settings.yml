@@ -2,10 +2,25 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/static/admin"
-webhook_url: 
+webhook_url: ''
 sections:
-  content/page:
-    default_front_matter_template: page
+- path: content/page
+  label: Page
+  create: all
+  default_front_matter_template: page
+- path: content/post
+  label: Post
+  create: all
+- path: content/tags
+  label: Tags
+  create: all
+- path: content/resume
+  label: Resume
+  create: all
+- path: content
+  label: Pages
+  create: all
+  default_front_matter_template: page
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
