@@ -7,3 +7,5 @@ fields:
   label: Project Title
   hidden: false
 - type: textarea
+  label: Description of the Project
+  name: description_of_the_project
