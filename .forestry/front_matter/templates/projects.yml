@@ -1,0 +1,8 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: description
+  label: Description
+  hidden: false
