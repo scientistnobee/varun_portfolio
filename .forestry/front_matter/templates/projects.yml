@@ -9,3 +9,5 @@ fields:
 - type: textarea
   label: Description of the Project
   name: description_of_the_project
+pages:
+- content/page/cosy-bio.md
