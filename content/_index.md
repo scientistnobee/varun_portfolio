@@ -5,7 +5,11 @@ type: page
 description: ''
 date: ''
 comments: false
-menu: ''
+menu:
+  '':
+    weight: -270
 
 ---
 > All models are wrong, but some are useful -– E. P. Box
+
+This is the home page
